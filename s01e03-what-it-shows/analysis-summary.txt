@@ -1,0 +1,19 @@
+raw entries: 427
+unique reports: 412
+unique merged into 4471: 412
+one-day-move reports: 5 R-41202, R-41209, R-41236, R-41344, R-41620
+
+[parser]
+  reports: 379
+  including one-day-move: 5 => net 374
+  tenants: 11 alder.physio, copper.studio, harbour.dental, kettle.books, lantern.row, long.table, morrow.tax, nine.lanterns, pale.harbour, ridge.clinic, stone.and.sons
+  channels: {"app":204,"email":150,"form":25}
+  intake tags: {"parser":356,"hint":23}
+  seen: 2026-04-01 -> 2026-10-04
+
+[hint]
+  reports: 33
+  tenants: 3 alder.physio, copper.studio, pale.harbour
+  channels: {"form":33}
+  intake tags: {"parser":15,"hint":18}
+  seen: 2026-04-17 -> 2026-09-22

@@ -1,0 +1,15 @@
+{
+  "name": "stock-5-reorder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.4",
+    "pg": "^8.23.1"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.11"
+  }
+}
